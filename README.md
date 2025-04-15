@@ -1,4 +1,3 @@
-Ecommerce store 
 
 **1.INTRODUCTION**
 
