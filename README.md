@@ -1,4 +1,5 @@
 INTRODUCTION
+
 1.1 Background (Problem):
 Modern e-commerce platforms face significant challenges managing and analyzing data from multiple heterogeneous sources such as transactional databases, NoSQL systems, and real-time user activity streams. Fecom Inc., e-commerce marketplace, encountered the need to integrate data from different sources—SQL Server, MongoDB, and user clickstreams—to derive meaningful insights for business decision-making and improve customer experience.
 1.2 Purpose:
